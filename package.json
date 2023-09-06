@@ -1,0 +1,10 @@
+{
+  "name": "@omnioficial/colors",
+  "version": "0.0.1",
+  "description": "Convert hexadecimal to ANSI",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/omnioficial/colors",
+  "author": "wardqq",
+  "license": "GPL-3.0"
+}
